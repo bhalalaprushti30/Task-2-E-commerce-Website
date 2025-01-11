@@ -36,13 +36,16 @@ To view or modify this project locally:
    git clone https://github.com/your-username/your-repository-name.git
 
 🖥️ Usage
+
 Open index.html in any modern browser (e.g., Chrome, Firefox).
 The page is responsive, meaning it will adapt to various screen sizes from mobile to desktop.
 
 📝 License
+
 This project is open-source and available under the MIT License.
 
 🙏 Acknowledgments
+
 Saiket Systems for the opportunity to work on this project.
 Bootstrap for providing a flexible and responsive grid system.
 Stack Overflow for community support during development.
